@@ -1,6 +1,6 @@
 # flutter_chat
 
-A simple chat app made using flutter 
+A simple cross-platform chat app made using flutter 
 To view sample screenshots click [here](https://drive.google.com/file/d/13o-6_PjbbSujzu0tYf6CnhGAy5x3_Elt/view?usp=drivesdk)
 
  
